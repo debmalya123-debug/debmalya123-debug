@@ -84,6 +84,9 @@ I specialize in:
   <a href="https://github.com/debmalya123-debug">
     <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/>
   </a>
+  <a href="mailto:debmalya0603@gmail.com">
+    <img src="https://img.shields.io/badge/MAIL-000000?logo=gmail&logoColor=orange&style=for-the-badge"/>
+  </a>
 </p>
 
 ---
