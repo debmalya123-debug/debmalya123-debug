@@ -5,7 +5,7 @@
  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=600&lines=AI%2FML+Developer;LLMs+and+Computer+Vision;Developing+AI+apps+for+Real+World+Problems" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,opencv,tensorflow,git,figma,sklearn,&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,opencv,tensorflow,git,figma,sklearn,react&perline=10" />
 </p>
 
 # Debmalya Paul  
@@ -46,19 +46,28 @@ I believe in building AI that’s:
 ### 🧩 Languages  
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-316767?logo=javascript&logoColor=white&style=for-the-badge"/>
+
 </p>
 
 ### 🤖 AI / ML  
 <p>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/YOLO-FFD2F?logo=yolo&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
+
 </p>
 
 ### 🧬 LLMs & GenAI  
 <p>
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logoColor=white"/>
+
 </p>
 
 ### 🌐 Backend & Cloud  
