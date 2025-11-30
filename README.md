@@ -1,15 +1,16 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00000&text=Debmalya%20Paul&section=header&reversal=false&fontColor=FFFFFF&fontSize=70&animation=twinkling" alt="Header" />
+
+<p align = "center">
+  <img  width="1100" height="250" alt="github-header-banner" src="https://github.com/user-attachments/assets/d2c7f7f9-d217-47e5-9960-6ad6270add1b" />
 </p>
-<p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=600&lines=AI%2FML+Developer;LLMs+and+Computer+Vision;Developing+AI+apps+for+Real+World+Problems" alt="Typing SVG" />
+<p align = "center">
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=600&lines=AI+Engineer+%7C+ML+Developer;I+build+LLM+Agents+and+Vision+Systems;All+things+Python" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,opencv,tensorflow,git,figma,sklearn,react&perline=10" />
 </p>
 
 # Debmalya Paul  
-**ISRO BAH Finalist • AI/ML Developer**  
+**AI/ML Developer**  
 Building practical systems in **Computer Vision, LLMs, Multimodal AI**, and autonomous agent workflows.
 
 ---
@@ -21,13 +22,7 @@ I specialize in:
 - 🧩 **LLM Agents** powered by Gemini API  
 - 🖼️ **Computer Vision systems** for real-time tasks  
 - 🔗 **Multimodal AI workflows**  
-- 🌐 **Deploying full-stack AI apps** with Flask/FastAPI  
 
-I believe in building AI that’s:  
-✔ Practical  
-✔ Fast  
-✔ Understandable  
-✔ Useful to real people  
 
 ---
 
@@ -35,9 +30,7 @@ I believe in building AI that’s:
 
 - 🛰 **ISRO BAH Finalist — Top 30 out of 8700+ teams**  
 - ⚡ **IEEE Xtreme Kolkata Region — Top 10**  
-- 🤖 Built multiple **AI agents** (health assistants, CV agents, workflow planners)  
-- 🖥️ Developed unique CV tools — **3D visual illusions, OCR engines, tracking pipelines**  
-- 🛠️ Led & shipped **end-to-end AI applications** from model → backend → deployment  
+
 
 ---
 
@@ -85,15 +78,6 @@ I believe in building AI that’s:
 
 ---
 
-## 🔥 What I Build  
-
-- 🤖 **LLM-driven assistants** (medical intake bots, CV agents, workflow planners)  
-- 🧠 **Multimodal systems** mixing text, vision & sensors  
-- 🖥️ **AI + Web full-stack apps** with production-ready APIs  
-- 🔍 **Computer Vision solutions** (OCR, tracking, real-time pipelines)  
-- ⚙️ **Automation tools** powered by Python & AI  
-
----
 
 ## 📫 Connect With Me  
 <p>
@@ -105,7 +89,7 @@ I believe in building AI that’s:
 ---
 
 ## ⚡ Fun Fact  
-I love building weird but cool side-projects — like **3D illusion overlays in Python**, custom CV automations, and experimental AI agents.
+I love building weird but cool side-projects.
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250">
 </p>
