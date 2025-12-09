@@ -3,7 +3,7 @@
   <img  width="1100" height="250" alt="github-header-banner" src="https://github.com/user-attachments/assets/d2c7f7f9-d217-47e5-9960-6ad6270add1b" />
 </p>
 <p align = "center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=600&lines=AI+Engineer+%7C+ML+Developer;I+build+LLM+Agents+and+Vision+Systems;All+things+Python" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=600&lines=AI+%7C+ML+Developer;I+build+LLM+Agents+and+Vision+Systems;I+💖+Python" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,flask,fastapi,opencv,tensorflow,git,figma,sklearn,react&perline=10" />
