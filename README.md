@@ -1,38 +1,32 @@
-
 <p align = "center">
   <img  width="1100" height="250" alt="github-header-banner" src="https://github.com/user-attachments/assets/d2c7f7f9-d217-47e5-9960-6ad6270add1b" />
 </p>
 <p align = "center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=600&lines=AI+%7C+ML+Developer;I+build+LLM+Agents+and+Vision+Systems;I+love+Python" alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&center=true&width=600&lines=AI+%7C+ML+Developer;Python+|+Rust+|+Java" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,fastapi,opencv,tensorflow,git,figma,sklearn,react&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,sklearn,fastapi,flask,git,figma,react&perline=10" />
 </p>
 
 # Debmalya Paul  
-**AI/ML Developer**  
-Building practical systems in **Computer Vision, LLMs, Multimodal AI**, and autonomous agent workflows.
+**AI/ML Developer** Building practical systems in **Deep Learning, LLMs, Multimodal AI**, and autonomous agent workflows.
 
 ---
 ## 🧠 About Me  
 
-Hi! I’m **Debmalya**, an AI/ML developer obsessed with crafting **usable, real-world AI systems** — not just experiments.
+Hi! I’m **Debmalya**, an AI/ML developer obsessed with crafting **usable, real-world AI systems** - not just experiments.
 
 I specialize in:  
 - 🧩 **LLM Agents** powered by Gemini API  
-- 🖼️ **Computer Vision systems** for real-time tasks  
-- 🔗 **Multimodal AI workflows**  
-
-
----
+- 🧠 **Deep Learning** specifically On Policy RL and Transformers  
+- 🔗 **Multimodal AI workflows**
+- ---
 
 ## 🏆 Achievements  
 
-- 🛰 **ISRO BAH Finalist — Top 30 out of 8700+ teams**  
-- ⚡ **IEEE Xtreme Kolkata Region — Top 10**  
-
-
----
+- 🛰 **ISRO BAH Finalist - Top 30 out of 8700+ teams**
+- ⚡ **IEEE Xtreme Kolkata Region - Top 10**
+- ---
 
 ## 🛠 Tech Stack  
 
@@ -43,16 +37,14 @@ I specialize in:
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/JavaScript-316767?logo=javascript&logoColor=white&style=for-the-badge"/>
-
 </p>
 
-### 🤖 AI / ML  
+### 🤖 AI / Deep Learning  
 <p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/YOLO-FFD2F?logo=yolo&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?logo=scikitlearn&logoColor=white&style=for-the-badge"/>
-
 </p>
 
 ### 🧬 LLMs & GenAI  
@@ -60,7 +52,6 @@ I specialize in:
   <img src="https://img.shields.io/badge/Gemini_API-4285F4?logo=google&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/LangChain-1A1A1A?style=for-the-badge&logoColor=white"/>
-
 </p>
 
 ### 🌐 Backend & Cloud  
